@@ -1,0 +1,10 @@
+node_modules/
+uploads/
+*.deb
+.DS_Store
+
+# Secrets: never commit these. Use .env.example as the template.
+.env
+*.env
+.env.*
+!.env.example
